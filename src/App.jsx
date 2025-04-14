@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
-import logo from "../public/logo.svg";
 import icon from "../public/icons.svg"; 
 import Home from "./pages/Home";
 import HomeDetail from "./pages/HomeDetail";
